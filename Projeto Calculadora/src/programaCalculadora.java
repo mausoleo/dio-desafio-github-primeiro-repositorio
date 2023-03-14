@@ -46,7 +46,7 @@ public class programaCalculadora {
 				resultado = numero1 / numero2;
 			}
 			
-			System.out.printf("O resultado é: %.2f%n", resultado);
+			System.out.printf("O resultado é: %.2f%n", resultado );
 			System.out.println("Quer fazer mais uma conta?");
 			System.out.println("[1] Sim!");
 			System.out.println("[0] Não!");
